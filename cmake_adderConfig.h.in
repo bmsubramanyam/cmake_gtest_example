@@ -1,0 +1,2 @@
+#define cmake_adder_VERSION_MAJOR @cmake_adder_VERSION_MAJOR@
+#define cmake_adder_VERSION_MINOR @cmake_adder_VERSION_MINOR@
